@@ -1,9 +1,5 @@
 package com.example.jasko.capitalcities;
 
-/**Lat
- * Created by Jasko on 09/03/2018.
- */
-
 public class Location {
     String City;
     float Lat;

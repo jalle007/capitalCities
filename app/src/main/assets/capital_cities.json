@@ -1,54 +1,55 @@
 {
     "capitalCities": [
+
+        {
+            "capitalCity": "Paris",
+            "lat": "48.8566",
+            "long": "2.3522"
+        },
+        {
+            "capitalCity": "Madrid",
+            "lat": "40.4168",
+            "long": "-3.7038"
+        },
+        {
+            "capitalCity": "London",
+            "lat": "51.5074",
+            "long": "0.1278"
+        },
+        {
+            "capitalCity": "Berlin",
+            "lat": "52.5200",
+            "long": "13.4050"
+        },
+        {
+            "capitalCity": "Amsterdam",
+            "lat": "52.3702",
+            "long": "4.8952"
+        },
+        {
+            "capitalCity": "Rome",
+            "lat": "41.9028",
+            "long": "12.4964"
+        },
+        {
+            "capitalCity": "Oslo",
+            "lat": "59.9139",
+            "long": "10.7522"
+        },
+        {
+            "capitalCity": "Vienna",
+            "lat": "48.2082",
+            "long": "16.3738"
+        },
         {
             "capitalCity": "Zurich",
             "lat": "47.3769",
             "long": "8.5417"
-        }/*,
-        {
-            "capitalCity": "Paris",
-            "lat": "",
-            "long": ""
         },
         {
-            "capitalCity": "Madrid",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "London",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Berlin",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Amsterdam",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Rome",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Oslo",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Vienna",
-            "lat": "",
-            "long": ""
-        },
-        {
-            "capitalCity": "Zurich",
-            "lat": "",
-            "long": ""
-        }*/
+            "capitalCity": "Budapest",
+            "lat": "47.4979",
+            "long": "19.0402"
+        }
     ]
 }
